@@ -1,0 +1,47 @@
+
+h1 {
+text-align: center;
+}
+.formulario{
+background-color: rgba(111, 207, 2, 0.87);
+border-radius: 5px 5px 5px 5px;
+text-align: center;
+color: #384313;
+font-size: 16px;
+font-weight: bold;
+padding-bottom: 10px;
+text-shadow: 0 1px 1px #c0d576;
+margin: 0;
+padding: 0;
+
+}
+
+.nome{
+    background-color: rgb(201, 255, 121);
+    border-radius: 15px 15px 15px 15px;
+    border: white;
+    border-style: groove;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+}
+
+h4 {
+    text-align: left;
+}
+
+.dados{
+
+    display:inline-block;
+    }
+
+.morada {
+    background-color: rgb(201, 255, 121);
+    border-radius: 15px 15px 15px 15px;
+    border: white;
+    border-style: groove;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    }
